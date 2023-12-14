@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "louaibaghdadi",
+    "password": "cbb77754",
+    "database": "crowdfundinggggg",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "louaibaghdadi",
+    "password": "cbb77754",
+    "database": "crowdfundinggggg",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "louaibaghdadi",
+    "password": "cbb77754",
+    "database": "crowdfundinggggg",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  }
+}
